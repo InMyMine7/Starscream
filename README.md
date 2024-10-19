@@ -22,7 +22,7 @@ starscream is a brute force tool used to try to log into various web services, s
 ## How To Usage 
 
 ```
-python3 beelzebub.py
+python3 stars.py
 ```
 ## DISCLAIMER
 This script should only be used for educational purposes and ethical hacking. Unauthorized access to computer systems is illegal and unethical. Ensure you have explicit permission before testing any system. AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES
