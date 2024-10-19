@@ -25,4 +25,4 @@ starscream is a brute force tool used to try to log into various web services, s
 python3 stars.py
 ```
 ## DISCLAIMER
-This script should only be used for educational purposes and ethical hacking. Unauthorized access to computer systems is illegal and unethical. Ensure you have explicit permission before testing any system. AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES
+Legality: Using a tool like this for illegal purposes, such as trying to access unauthorized accounts, is against the law and can have serious consequences. Be sure to use this tool only in a legitimate environment and with proper authorization. AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES
