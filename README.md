@@ -8,6 +8,17 @@ starscream is a brute force tool used to try to log into various web services, s
 - Python 3.x
 - The requests package (`pip3 install -r requirements.txt`)
 
+## Key Features
+- Crack Cpanel From Combolist
+- Crack Webmail From Combolist
+- Crack ssh From Combolist
+- Crack Wordpress Panel From Combolist
+- Crack WHM From Combolist
+- Crack SMTP From Combolist
+- Crack Plesk From Combolist
+- Crack FTP From Combolist
+- Crack Joomla From Combolist
+- Crack OpenCart From Combolist
 ## How To Usage 
 
 ```
