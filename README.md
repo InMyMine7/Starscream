@@ -1,6 +1,6 @@
 ## Starscream v 1.0
 
-<img src="https://raw.githubusercontent.com/InMyMine7/Starscream/refs/heads/main/Starscream.png">
+<img src="https://raw.githubusercontent.com/InMyMine7/MineSeven/refs/heads/main/Starscream.png">
 
 starscream is a brute force tool used to try to log into various web services, such as cPanels, Webmail, SSH, Wordpress, WHM, SMTP, Plesk, FTP, Joomla, and Opencart by using a combination of email and password.
 
