@@ -1,4 +1,4 @@
-## Starscream
+## Starscream v 1.0
 
 <img src="https://raw.githubusercontent.com/InMyMine7/Starscream/refs/heads/main/Starscream.png">
 
@@ -15,7 +15,6 @@ starscream is a brute force tool used to try to log into various web services, s
 - Crack Wordpress Panel From Combolist
 - Crack WHM From Combolist
 - Crack SMTP From Combolist
-- Crack Plesk From Combolist
 - Crack FTP From Combolist
 - Crack Joomla From Combolist
 - Crack OpenCart From Combolist
